@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angel Kyle L. Alaba
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning CS50
+- 🌱 I’m currently learning
 - ⚡ Fun fact: I'm a second year college student taking up Computer Science
 
 <!---
