@@ -8,6 +8,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlaba13"/>
 <br><br><br>
+
 `Currently learning`
 - [x] JavaScript
 - [x] Tailwind CSS
