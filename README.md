@@ -12,7 +12,7 @@
 `Currently learning`
 - [x] JavaScript
 - [x] Tailwind CSS
-- [x] PHP
+- [ ] PHP
 - [ ] Laravel Blade
 - [ ] Laravel
 
