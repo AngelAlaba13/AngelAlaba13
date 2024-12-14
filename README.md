@@ -12,7 +12,7 @@
 ### Designing
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlaba1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlaba13"/>
 <br><br><br>
 
 `Currently learning`
