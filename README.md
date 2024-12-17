@@ -20,7 +20,7 @@
 - [x] Tailwind CSS
 - [x] PHP
 - [x] Laravel Blade
-- [ ] Laravel
+- [x] Laravel
 
 
 
