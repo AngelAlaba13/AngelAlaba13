@@ -16,11 +16,11 @@
 <br><br><br>
 
 `Currently learning`
-- [x] JavaScript
-- [x] Tailwind CSS
-- [x] PHP
-- [x] Laravel Blade
 - [x] Laravel
+- [ ] Better UI/UX
+- [ ] Docker
+- [ ] Flutter
+- [ ] Integrating AI in projects
 
 
 
