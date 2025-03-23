@@ -1,5 +1,5 @@
 ```diff
-+ Hi, this is Angel Kyle Ala
++ Hi, this is Angel Kyle Alab
 ```
 
 ### Skills
