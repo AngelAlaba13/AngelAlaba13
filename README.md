@@ -23,7 +23,7 @@
 - [ ] Better UI/UX
 - [ ] Docker
 - [ ] Flutter
-- [ ] Integrating AI in projects
+- [ ] Integrating AI in project
 
 
 
