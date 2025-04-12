@@ -20,10 +20,10 @@
 
 `Currently learning`
 - [x] Laravel
-- [ ] Better UI/UX
-- [ ] Docker
-- [ ] Flutter
+- [x] Flutter
 - [ ] Integrating AI in projects
+- [ ] Better UI/UX
+
 
 
 
