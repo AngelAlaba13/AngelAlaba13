@@ -21,6 +21,7 @@
 `Currently learning`
 - [x] Laravel
 - [x] Flutter
+- [ ] React JS
 - [ ] Integrating AI in projects
 - [ ] Better UI/UX
 
