@@ -23,7 +23,7 @@
 - [x] Flutter
 - [ ] React JS
 - [ ] Integrating AI in projects
-- [ ] Better UI/U
+- [ ] Better UI/UX
 
 
 
