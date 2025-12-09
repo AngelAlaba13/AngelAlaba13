@@ -19,11 +19,10 @@
 <br><br><br>
 
 `Currently learning`
-- [x] Laravel
-- [x] Flutter
-- [x] React JS
-- [ ] Integrating AI in projects
+- [x] Integrating AI in projects
+- [ ] Mastering Laravel
 - [ ] Better UI/UX
+
 
 
 
