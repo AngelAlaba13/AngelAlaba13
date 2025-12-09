@@ -20,8 +20,9 @@
 
 `Currently learning`
 - [x] Integrating AI in projects
+- [x] Better UI/UX
 - [ ] Mastering Laravel
-- [ ] Better UI/UX
+
 
 
 
