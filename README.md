@@ -22,6 +22,7 @@
 - [x] Integrating AI in projects
 - [x] Better UI/UX
 - [ ] Mastering Laravel
+- [ ] Cybersecurity in the side
 
 
 
