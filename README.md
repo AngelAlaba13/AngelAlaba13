@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAlaba13"/>
 <br><br><br>
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6655937" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/jackofallbytes.png" alt="Your Image Badge" />
 <br>
 
 <br>
