@@ -20,6 +20,8 @@
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6655937" style='border:none;'></iframe>
 
+<br>
+
 `Currently learning`
 - [x] Integrating AI in projects
 - [x] Better UI/UX
