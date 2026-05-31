@@ -1,4 +1,4 @@
-My Portfolio: [Portfolio - Angel Alaba](https://angelalaba.vercel.app/)
+View My Portfolio Here: [Portfolio - Angel Alaba](https://angelalaba.vercel.app/)
 <br>
 
 ### Skills
